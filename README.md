@@ -1,1 +1,1 @@
-# Vision-AI-Fundamentals-Building-a-Digit-Recognizer-from-Scratch
+# Digit Recognizer (Vision AI)
